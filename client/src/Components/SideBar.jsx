@@ -8,8 +8,8 @@ import { CiBookmark } from "react-icons/ci";
 import { IoIosLogOut } from "react-icons/io";
 const SideBar = ({ children }) => {
   return (
-    <section className="min-h-svh flex">
-      <div className=" w-24 p-2 bg-slate-800 flex flex-col items-center	">
+    <section className="max-h-dvh flex">
+      <div className="min-h-dvh w-24 p-2 bg-slate-800 flex flex-col items-center	">
         <img src="" alt="" />
         <h1>Logo</h1>
         <div className="flex flex-col gap-8 my-auto">

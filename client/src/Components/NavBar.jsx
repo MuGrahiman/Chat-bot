@@ -3,7 +3,7 @@ import { FaRegBell, FaRegUserCircle } from "react-icons/fa";
 import { MdOutlineKeyboardArrowDown } from "react-icons/md";
 const NavBar = () => {
   return (
-    <nav className="bg-zinc-900	p-2 text-white flex  items-center justify-center">
+    <nav className="bg-zinc-800	p-2 text-white flex  items-center justify-center">
       <form className="mx-auto my-2 ">
         <div class="relative">
           <input
